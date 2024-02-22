@@ -1,0 +1,14 @@
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\bin\Debug\net6.0\Variables_Justin_Palmer.exe
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\bin\Debug\net6.0\Variables_Justin_Palmer.deps.json
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\bin\Debug\net6.0\Variables_Justin_Palmer.runtimeconfig.json
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\bin\Debug\net6.0\Variables_Justin_Palmer.dll
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\bin\Debug\net6.0\Variables_Justin_Palmer.pdb
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\obj\Debug\net6.0\Variables_Justin_Palmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\obj\Debug\net6.0\Variables_Justin_Palmer.AssemblyInfoInputs.cache
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\obj\Debug\net6.0\Variables_Justin_Palmer.AssemblyInfo.cs
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\obj\Debug\net6.0\Variables_Justin_Palmer.csproj.CoreCompileInputs.cache
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\obj\Debug\net6.0\Variables_Justin_Palmer.dll
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\obj\Debug\net6.0\refint\Variables_Justin_Palmer.dll
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\obj\Debug\net6.0\Variables_Justin_Palmer.pdb
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\obj\Debug\net6.0\Variables_Justin_Palmer.genruntimeconfig.cache
+C:\Users\JustinPalmer\source\repos\Variables_Justin_Palmer\obj\Debug\net6.0\ref\Variables_Justin_Palmer.dll
